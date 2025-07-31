@@ -83,7 +83,7 @@ It runs natively on both **Intel and Apple Silicon Macs (M1/M2/M3)** and support
 ## 📸 More Screenshots
 
 <p align="center">
-  <img src="https://cdn.serif.com/affinity/img/photo/home/0824/slider/photo-assets-020820240816--lg@2x.png" alt="Affinity Photo RAW Editor Screenshot" />
+  <img src="https://cdn.serif.com/affinity/img/learn/quickstart/photo/photo-desktop-header-280920231547--lg@2x.png" />
   <br><br>
   <img src="https://cdn.serif.com/affinity/img/photo/home/0322/composition/composition-041120220926--lg@2x.jpg" alt="Affinity Photo Retouching Screenshot" />
 </p>
